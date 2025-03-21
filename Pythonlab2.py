@@ -2,7 +2,7 @@ import asyncio
 import aiogram
 from aiogram.filters.command import Command
 
-bot = aiogram.Bot(token="7222583888:AAE0LBk6xr65VXGBL75UFJJIeXY583jx8ug")
+bot = aiogram.Bot(token="ТОКЕН")
 dp = aiogram.Dispatcher()
 
 types_maraphone = ["традиционный", "сверхмарафон", "многодневный пробег"]
